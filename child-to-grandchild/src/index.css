@@ -1,0 +1,9 @@
+.child-style {
+  background: grey;
+}
+.parent-style {
+  background: green;
+}
+.grandparents-style {
+  background: blue;
+}

@@ -1,0 +1,28 @@
+.style-number {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    float: left;
+}
+
+.style-operator {
+    float: right;
+    display: grid;
+    grid-template-columns: 1fr;
+    float: right;
+}
+
+#root div.calculator {
+    width: 500px;
+    margin: auto;
+}
+.canculator-style {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.screen {
+    background: darkgrey;
+    height: 40px;
+    font-size: 25px;
+    text-align: right;
+}
